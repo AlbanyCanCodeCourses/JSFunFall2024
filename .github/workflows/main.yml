@@ -18,5 +18,4 @@ jobs:
         id: json-yaml-validate
         uses: GrantBirki/json-yaml-validate@v3.2.1
         with:
-          files: .vscode/launch.json
-          yaml_exclude_regex: .vscode/launch.json
+          json_exclude_regex: "(exercises/tests)"
