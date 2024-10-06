@@ -8,7 +8,7 @@
  * HINT: you will need to exit out of the function early.
  *
  * @param {string} str
- * @returns {string} str capitalized
+ * @returns {string} str in all lower case letters
  *
  * @example lowerCaseString(); // undefined (should not throw an error)
  * @example lowerCaseString(null); // undefined (should not throw an error)
