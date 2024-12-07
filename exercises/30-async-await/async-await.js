@@ -11,5 +11,8 @@
    *    "status": "success",
    *    "message": "https://images.dog.ceo/breeds/poodle-toy/n02113624_9550.jpg"
    * }
+   *
+   * NOTE: If you see a red squiggly line underneath axios for the error
+   * "axios is not defined", ignore it. This is an issue with the linter.
    */
 })();
