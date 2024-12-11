@@ -4,3 +4,8 @@
  */
 
 // WRITE YOUR ANSWER BELOW THIS LINE
+
+
+let restaurants = ["Pasta Palace", "Red Robin", "Longhorn"];
+
+console.log(restaurants);
